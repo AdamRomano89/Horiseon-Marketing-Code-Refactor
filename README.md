@@ -2,8 +2,10 @@
 Horiseon Marketing Company Website
 
 ### Live Application Link 👀
-Horiseon Marketing Company Website: [See Deployment on GitHub Pages] (https://adamromano89.github.io/Horiseon-Marketing-Code-Refactor/)
+Horiseon Marketing Company Website: [See deployment on Github Pages](https://adamromano89.github.io/Horiseon-Marketing-Code-Refactor/)
 
+### Live Application Link 👀
+Horiseon Marketing Company Website: [http://adamromano.net/]
 ### Built With 🧰
 - HTML 
 - CSS
@@ -18,7 +20,7 @@ Refactoring the website code by adding the following:
 - [x]adding a descriptive title
 
 # Project Visual :sunglasses:
-! [Project-Picture]
+! [Project-Picture] (https://github.com/AdamRomano89/Horiseon-Marketing-Code-Refactor/blob/bebae9c2f1df4a646eed692bae75fd89d50bf110/assets/images/Mockup.png)
 
 ## Authors, Acknowledgement, & Resources 🤝
 
