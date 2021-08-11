@@ -59,9 +59,16 @@ header nav ul li {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    overflow: hidden;
+    /* background-image: url("../images/digital-marketing-meeting.jpg"); */
+    /* background-size: cover;
+    background-position: center; */
+}
+
+.hero img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
 }
 /*////////////////////// Hero Styling End ///////////////////*/
 
@@ -74,7 +81,7 @@ header nav ul li {
 }
 
 /* applying styles to section 1 articles */
-.content article {
+.search-engine-optimization ,.online-reputation-management ,.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -119,7 +126,7 @@ header nav ul li {
     background-color: #2589bd;
 }
 /* applying styling to side bar articles */
-.benefits article {
+.benefit-lead ,.benefit-brand ,.benefit-cost {
     margin-bottom: 10px;
     text-align: center;
     margin-bottom: 32px;
