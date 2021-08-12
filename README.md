@@ -20,7 +20,7 @@ Refactoring the website code by adding the following:
 - [x]adding a descriptive title
 
 # Project Visual :sunglasses:
-! [Project-Picture] (https://github.com/AdamRomano89/Horiseon-Marketing-Code-Refactor/blob/53c8e075c41089c1e7e1910be5e01e5098554112/Images/Mockup.png)
+![Project-Picture](./Images/Mockup.png)
 
 ## Authors, Acknowledgement, & Resources 🤝
 
