@@ -30,8 +30,5 @@ Refactoring the website code by adding the following:
 
 ## Authors, Acknowledgement, & Resources 🤝
 
-### Teaching Crew at UCB Coding Bootcamp 🎉
+### Teaching Crew at UT Coding Bootcamp 🎉
 [Bootcamp Program](https://techbootcamps.utexas.edu/coding/)
-
-### W3Schools 🤓
-[W3Schools HTML & CSS Resources](https://www.w3schools.com/)
