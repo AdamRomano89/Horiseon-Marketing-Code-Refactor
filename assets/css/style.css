@@ -20,7 +20,7 @@ p {
 body {
     background-color: #d9dcd6;
 }
-/*///////////////////// applying styling to header ///////////////////*/
+/* applying styling to header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,10 +51,10 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/* //////////////////////header styling End //////////////////////////////*/
+/* header styling End */
 
 
-/* ////////////////Hero Styling Start///////////////////// */
+/* Hero Styling Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -70,10 +70,10 @@ header nav ul li {
     height: 100%;
     width: 100%;
 }
-/*////////////////////// Hero Styling End ///////////////////*/
+/* Hero Styling End */
 
 
-/* //////////////////applying styling to section 1///////////////////// */
+/* applying styling to section */
 .content {
     width: 75%;
     display: inline-block;
@@ -100,7 +100,7 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* ///////////////////////////Section 1 styling end//////////////////////// */
+/* Section 1 styling end */
 
 
 /* applying a universal styling to images */
@@ -114,7 +114,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* //////////////////////////applying styling to Side bar ///////////////*/
+/* applying styling to Side bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -138,10 +138,10 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
-/* ////////////////////////Side bar styling end/////////////////////// */
+/* Side bar styling end */
 
 
-/* /////////////////applying styling to footer////////////////// */
+/* applying styling to footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -152,4 +152,4 @@ header nav ul li {
 .footer h2 {
     font-size: 20px;
 }
-/* ////////////Fotter styling end//////////////////////////////// */
+/* Fotter styling end */
